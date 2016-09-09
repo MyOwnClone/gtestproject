@@ -46,6 +46,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/core.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/core.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/download/DownloadProject/DownloadProject.CMakeLists.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/download/DownloadProject/DownloadProject.cmake" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/gtest.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/test/basiccheck.cpp" isTestSource="false" />

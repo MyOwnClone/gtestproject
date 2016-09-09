@@ -85,23 +85,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basiccheck.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="basiccheck.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/basiccheck.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
+                <marker date="1473417739000" expanded="true" signature="127:151" ph="{...}" />
+                <marker date="1473417739000" expanded="true" signature="182:217" ph="{...}" />
+                <marker date="1473417739000" expanded="true" signature="248:294" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -148,8 +151,8 @@
         <option value="$PROJECT_DIR$/src/core.h" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/test/gtest.cpp" />
-        <option value="$PROJECT_DIR$/test/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/test/basiccheck.cpp" />
+        <option value="$PROJECT_DIR$/test/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -238,6 +241,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gtestproject" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gtestproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gtestproject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="download" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DownloadProject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -639,7 +664,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1473413221865</updated>
-      <workItem from="1473413223551" duration="3363000" />
+      <workItem from="1473413223551" duration="3762000" />
     </task>
     <servers />
   </component>
@@ -648,6 +673,9 @@
       <configuration name="basic_check.coretest0" configurationId="CMakeGoogleTestRunConfigurationType" />
     </history-entry>
     <history-entry file="basic_check_coretest1 - 2016.09.09 at 12h 42m 27s.xml">
+      <configuration name="basic_check.coretest1" configurationId="CMakeGoogleTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="basic_check_coretest1 - 2016.09.09 at 12h 49m 09s.xml">
       <configuration name="basic_check.coretest1" configurationId="CMakeGoogleTestRunConfigurationType" />
     </history-entry>
     <history-entry file="basic_check_test0 - 2016.09.09 at 12h 21m 48s.xml">
@@ -673,7 +701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3363000" />
+    <option name="totallyTimeSpent" value="3762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1341" extended-state="1" />
@@ -748,14 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/CLion2016.2/cmake/generated/gtestproject-a1f4c45d/a1f4c45d/Debug/googletest-src/googletest/include/gtest/gtest.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -786,7 +806,18 @@
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
+            <marker date="1473417739000" expanded="true" signature="127:151" ph="{...}" />
+            <marker date="1473417739000" expanded="true" signature="182:217" ph="{...}" />
+            <marker date="1473417739000" expanded="true" signature="248:294" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
